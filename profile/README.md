@@ -1,4 +1,5 @@
-![ScreenShot](https://cdn.discordapp.com/attachments/1206283678699749416/1243577712841592912/2024-05-24_23.53.41.png?ex=66a509ff&is=66a3b87f&hm=c1d239eaa750d93a2575fbd9a109049434f0e3a9b7d6cc48aca60e674cf70b7c&)
+![image](https://github.com/user-attachments/assets/417e940a-b938-469b-8b94-9a81b0c8adea)
+
 # Aruka Network
 ArukaNetwork へようこそ！  
 このサーバーは快適なサバイバルを提供することを目標として運営されています。
